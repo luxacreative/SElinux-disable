@@ -13,7 +13,7 @@ you point the finger at us for messing up your device, we will laugh at you.тЪая
 ## Installation:
 - Flash via Magisk Manager
 - Reboot
-- Run `getenforce` to verify in termux or any other terminal 
+- Run `getenforce` (https://play.google.com/store/apps/details?id=com.termux&hl=en_US&pli=1 ) (https://github.com/termux/termux-app ) to verify in termux or any other terminal 
 
 ## Tested on:
 - Android 14 OneUI 6.1 (SM-G990B)
